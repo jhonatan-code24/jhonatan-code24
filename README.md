@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31psg7waumow3uoy25s4om7zqqrm&cover_image=true&theme=dark)
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31psg7waumow3uoy25s4om7zqqm&cover_image=true&theme=dark)
 
 
 ---
