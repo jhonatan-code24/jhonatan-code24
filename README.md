@@ -15,11 +15,7 @@
 
 ### Spotify Playing 🎧
 
-<img
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31psg7waumow3uoy25s4om7zqqm&cover_image=true&theme=dark"
-  alt="Spotify Playing"
-  width="350"
-/>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31psg7waumow3uoy25s4om7zqqrm)
 
 
 ---
