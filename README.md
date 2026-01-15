@@ -82,10 +82,9 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/natan.blo?igsh=NHNzOTR5MG13NWs1
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+[linkedin]: https://www.linkedin.com/in/jhonatan-bonilla-406307239/
+[Spotify]: https://open.spotify.com/user/31psg7waumow3uoy25s4om7zqqrm
 
 
 ----
