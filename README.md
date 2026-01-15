@@ -83,7 +83,7 @@
 ---
 
 [website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
+[instagram]: https://www.instagram.com/natan.blo?igsh=NHNzOTR5MG13NWs1
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 [Spotify]: https://open.spotify.com/user/11153360645
 
