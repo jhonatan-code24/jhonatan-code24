@@ -15,7 +15,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spoti-chi.vercel.app/api/spotify)](https://open.spotify.com/user/31psg7waumow3uoy25s4om7zqgrm)
+[![Spotify](https://spoti-chi.vercel.app/api/og)](https://open.spotify.com/user/31psg7waumow3uoy25s4om7zqgrm)
+
 
 
 ---
