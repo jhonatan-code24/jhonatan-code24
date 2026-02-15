@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spoti-chi.vercel.app/api/og)](https://open.spotify.com/user/31psg7waumow3uoy25s4om7zqgrm)
+[<img src="https://spoti-knwlx7bzn-jhonatans-projects-836eb55a.vercel.app" alt"naviscode spotify playing" width="350" /]()
 
 
 
